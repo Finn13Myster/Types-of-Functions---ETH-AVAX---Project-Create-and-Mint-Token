@@ -26,7 +26,7 @@ FinnToken is an ERC20 token implemented using the OpenZeppelin library. The toke
 * Enter the initial supply value (e.g., 1000).
 * Click on the "Deploy" button.
 
-5) Interact with the Contract:
+## 5) Interact with the Contract:
 
 * After deployment, the contract functions will be available in the "Deployed Contracts" section.
 * Mint Tokens: Only the contract owner can call the mint function. Provide the address * and the amount to mint tokens.

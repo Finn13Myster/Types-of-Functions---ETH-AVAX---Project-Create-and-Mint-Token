@@ -17,7 +17,7 @@ FinnToken is a smart contract that adheres to the ERC20 token standard, ensuring
     - Create a new file named `FinnToken.sol`.
     - Copy and paste this code` into the new file.
       
-  ```
+  ```sol
     // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
@@ -83,3 +83,7 @@ For more detailed assistance, refer to the [OpenZeppelin Documentation](https://
 
 ## Authors
 - Franz Leeann U. Ferry [@Linkedin](www.linkedin.com/in/franz-leeann-ferry-a286552a2).
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE.md` file for details

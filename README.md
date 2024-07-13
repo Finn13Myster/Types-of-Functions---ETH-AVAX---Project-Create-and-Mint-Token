@@ -17,7 +17,7 @@ FinnToken is a smart contract that adheres to the ERC20 token standard, ensuring
     - Create a new file named `FinnToken.sol`.
     - Copy and paste this code` into the new file.
       
-  ```sol
+  ```solidity
     // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 

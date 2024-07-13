@@ -1,4 +1,4 @@
-##FinnToken: An ERC20 Token Implementation
+## FinnToken: An ERC20 Token Implementation
 
 ## Simple Overview
 FinnToken is an ERC20 token implemented using the OpenZeppelin library. The token allows the contract owner to mint new tokens, while any user can transfer and burn tokens. This contract is designed to be deployed and interacted with using Remix IDE.
